@@ -163,8 +163,8 @@ I'm always interested in discussing:
 **AI • Machine Learning • Generative AI • LLMs • RAG • AI Agents • Computer Vision • Open Source**
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-mohamadjaid.in-000000?style=for-the-badge\&logo=google-chrome\&logoColor=white)](https://mohamadjaid.in)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/Zaid-malik9717)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)]([https://www.linkedin.com/](https://www.linkedin.com/in/mohamad-jaid-305797323/))
 
 ---
 
